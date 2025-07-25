@@ -2,9 +2,10 @@
   "name": "fb-proxy-worker",
   "version": "1.0.0",
   "scripts": {
-    "deploy": "wrangler deploy"
+    "deploy": "npx wrangler deploy"
   },
   "devDependencies": {
     "wrangler": "^3.0.0"
   }
 }
+
