@@ -1,0 +1,6 @@
+name = "fb-proxy-worker"
+type = "javascript"
+account_id = "YOUR_ACCOUNT_ID"
+workers_dev = true
+route = ""
+zone_id = ""
