@@ -1,6 +1,5 @@
 name = "fb-proxy-worker"
+main = "worker.js"
 account_id = "610498cee2b2e401e201b5230cc01016"
 workers_dev = true
 compatibility_date = "2025-07-25"
-
-main = "worker.js"
